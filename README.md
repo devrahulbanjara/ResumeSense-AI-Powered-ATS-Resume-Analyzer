@@ -1,5 +1,9 @@
 # ResumeSense: AI-Powered ATS Resume Analyzer
 
+<p align="center">
+  <img src="docs/UI.png" alt="Resume Sense working Screenshot" width="600"/>
+</p>
+
 ## Introduction
 ResumeSense is an AI-powered Applicant Tracking System (ATS) resume analyzer that evaluates a candidate's resume against a given job description. It leverages OpenAI's Gemini API to provide detailed feedback on resume strengths, weaknesses, and a percentage match to the job description. The tool enables job seekers to optimize their resumes for ATS systems used by recruiters, increasing their chances of landing interviews.
 
